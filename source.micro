@@ -1,0 +1,13 @@
+begin
+    -- This is a comment which can be ignored in our compiled source
+
+    -- The only data type is integers
+    -- Operators: +, -
+    A = 10 + 20;
+    B = A - 5;
+    C = A + B;
+
+    -- The built-in write() method translates to console.log()
+    write(C);
+    write(10 + 20);
+end

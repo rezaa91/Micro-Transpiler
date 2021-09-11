@@ -1,0 +1,11 @@
+{
+  "name": "playground",
+  "version": "1.0.0",
+  "description": "Inspired by \"Crafting a Compiler in C\" by Charles N. Fisher & Richard J. LeBlanc, Jr.",
+  "main": "compiler.js",
+  "scripts": {
+    "start": "node ./compiler/compiler.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
